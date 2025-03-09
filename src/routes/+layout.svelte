@@ -4,7 +4,6 @@
 	import '../app.css';
 
 	import MatrixEffect from '$lib/components/MatrixEffect.svelte';
-
 	let { children } = $props();
 </script>
 
